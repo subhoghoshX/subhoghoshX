@@ -3,9 +3,33 @@
 I'm a web developer.
 
 ## Languages and Tools:
-<div style="background-color: #ff0000;" bgColor=#ff0000>
-<p align="left" style="background-color: red"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-C0990F.svg?logo=javascript&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-338492?style=for-the-badge&logo=tailwindcss&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-React-0091B9.svg?logo=react&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-MUI-007FFF.svg?logo=mui&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next-555.svg?logo=nextdotjs&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6.svg?logo=typescript&style=flat&logoColor=white">
+
+  <img src="https://img.shields.io/badge/-Node-339933.svg?logo=nodedotjs&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express-555.svg?logo=express&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?logo=express&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Solidity-555.svg?logo=solidity&style=flat&logoColor=white">
+
+  <img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-444.svg?logo=github&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-0D597F.svg?logo=linux&style=flat&logoColor=white">
+</p>
 
 ## My GitHub Stats:
 <table>
