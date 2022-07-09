@@ -1,4 +1,4 @@
-# Hi 👋, I'm Subho
+# Hi 👋 My name is Subho
 
 I'm a web developer.
 
