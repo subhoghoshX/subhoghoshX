@@ -1,6 +1,6 @@
 # Hi 👋 My name is Subho
 
-I'm a web developer.
+I'm a software engineer.
 
 ## Languages and Tools:
 <p>
