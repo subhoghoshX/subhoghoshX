@@ -21,7 +21,6 @@ I'm a software engineer.
   <img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/-Solidity-555.svg?logo=solidity&style=flat&logoColor=white">
 
   <img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat&logoColor=white">
