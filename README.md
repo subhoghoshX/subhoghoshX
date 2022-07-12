@@ -1,6 +1,6 @@
 # Hi 👋 My name is Subho
 
-I'm a software engineer.
+I'm a software engineer obsessed with making your UI look awesome.
 
 ## Languages and Tools:
 <p>
