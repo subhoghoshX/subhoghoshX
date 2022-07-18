@@ -2,6 +2,10 @@
 
 I'm a software engineer obsessed with making your UI look awesome.
 
+<a href="https://www.twitter.com/subhoghosh_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/subhoghosh_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
 ## Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat&logoColor=white">
