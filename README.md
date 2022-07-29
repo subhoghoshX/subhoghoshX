@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/subhoghosh_?logo=twitter&style=for-th
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=subhoghoshX&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=subhoghoshX&theme=github&bg_color=0F182A)
 
 
 
