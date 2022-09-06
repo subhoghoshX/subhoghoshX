@@ -15,6 +15,7 @@ I'm a software engineer obsessed with making your UI look awesome.
   <img src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-MUI-007FFF.svg?logo=mui&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Next-555.svg?logo=nextdotjs&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gatsby-663399.svg?logo=gatsby&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Typescript-3178C6.svg?logo=typescript&style=flat&logoColor=white">
 
   <img src="https://img.shields.io/badge/-Node-339933.svg?logo=nodedotjs&style=flat&logoColor=white">
