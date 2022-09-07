@@ -11,12 +11,11 @@ I'm a software engineer obsessed with making your UI look awesome.
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-C0990F.svg?logo=javascript&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind-338492?style=for-the-badge&logo=tailwindcss&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6.svg?logo=typescript&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-React-0091B9.svg?logo=react&style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/-MUI-007FFF.svg?logo=mui&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Next-555.svg?logo=nextdotjs&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Gatsby-663399.svg?logo=gatsby&style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/-Typescript-3178C6.svg?logo=typescript&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-MUI-007FFF.svg?logo=mui&style=flat&logoColor=white">
 
   <img src="https://img.shields.io/badge/-Node-339933.svg?logo=nodedotjs&style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/-Express-555.svg?logo=express&style=flat&logoColor=white">
