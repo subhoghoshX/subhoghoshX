@@ -2,7 +2,7 @@
 
 I'm a software engineer obsessed with making your UI look awesome.
 
-* Currently working on [Create TW](https://github.com/andrejjurkin/create-tw), [Template Bhai](https://github.com/andrejjurkin/template-bhai) and many more. Please take a look at the pinned projects below.
+* Currently working on [Laureate](https://github.com/subhoghoshX/laureate), [Create TW](https://github.com/andrejjurkin/create-tw) and many more. Please take a look at the pinned projects below.
 
 
 ## Languages and Tools:
