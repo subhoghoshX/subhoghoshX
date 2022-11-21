@@ -3,6 +3,7 @@
 I'm a software engineer obsessed with making your UI look awesome.
 
 * Currently working on [Laureate](https://github.com/subhoghoshX/laureate), [Create TW](https://github.com/andrejjurkin/create-tw) and many more. Please take a look at the pinned projects below.
+* See my portfolio at [subhoghosh.co](https://subhoghosh.co)
 
 
 ## Languages and Tools:
