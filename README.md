@@ -44,7 +44,6 @@ I'm a software engineer obsessed with making your UI look awesome.
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=subhoghoshX&theme=github&bg_color=0F182A)
 
 
 <!---
