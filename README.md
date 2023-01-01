@@ -32,18 +32,6 @@ I'm a software engineer obsessed with making your UI look awesome.
   <img src="https://img.shields.io/badge/-Linux-0D597F.svg?logo=linux&style=flat&logoColor=white">
 </p>
 
-## My GitHub Stats:
-<table>
-  <tr>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=subhoghoshX&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Subho Stats" />
-    </td>
-    <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhoghoshX&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Subho Streak" />
-    </td>
-  </tr>
-</table>
-
 
 
 <!---
